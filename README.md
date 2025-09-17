@@ -1,17 +1,20 @@
 # Maven-Electronics-Retailer-analysis-Power-BI-Bootcamp-Capstone-project
 
-## Project Topic: Maven global electronics retailer Analysis
+## Project Topic: Global electronics retailer Analysis
 
 ### Project Overview 
-This project aims to identify key areas within the Palmora group business that could give rise to gender related issues by analysing the company’s HR data and coming up with recommendations for the management’s attention.
+Creating a sales performance dashboard for a global electronics retailer to consolidate and analyze sales, customer, product, and store data. The dashboard tracks key performance metrics, uncover sales trends, and provide actionable insights for management to make data-driven decisions.
 
 ### Data Source
-The primary source of data used here is Palmoria Group emp-data.csv and Palmoria Group Bonus Rules.xlsx and this data was shared by the data analysis facilitator to all students for the project assessment.
+The primary source of the data used was shared by the facilitator to all students for the project assessment. The datasets are as follows
 
 ### Tools Used
 
 - Power BI Desktop. 
 - Power BI Service.
 - Power BI Mobile.
+
+### 
+
 
 
