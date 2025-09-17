@@ -8,4 +8,10 @@ This project aims to identify key areas within the Palmora group business that c
 ### Data Source
 The primary source of data used here is Palmoria Group emp-data.csv and Palmoria Group Bonus Rules.xlsx and this data was shared by the data analysis facilitator to all students for the project assessment.
 
+### Tools Used
+
+- Power BI Desktop. 
+- Power BI Service.
+- Power BI Mobile.
+
 
