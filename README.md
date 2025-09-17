@@ -1,0 +1,2 @@
+# Maven-Electronics-Retailer-analysis-Power-BI-Bootcamp-Capstone-project
+Maven Electronics Retailer analysis is a project that was done during the Power BI Bootcamp with Mrs Tina Okonkwo. During this Bootcamp, extensive insights into the intricacies of power BI software was taught. This project exemplifies the practical application of all the major aspect of the training which included the extensive use of DAX functions
