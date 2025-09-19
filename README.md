@@ -56,6 +56,13 @@ The dataset consists of multiple related tables:
 ### Data Source
 The primary source of the data used was shared by the facilitator to all students for the project assessment. The datasets can be found on the PowerBi link to access the dashboard. 
 
+- Customers.csv : [Download here](https://github.com/user-attachments/files/22428609/Customers.csv)
+- Products.csv : [Download here](https://github.com/user-attachments/files/22428621/Products.csv)
+- Stores.csv : [Download here](https://github.com/user-attachments/files/22428627/Stores.csv)
+- Exchange_Rates.csv : [Download here](https://github.com/user-attachments/files/22428639/Exchange_Rates.csv)
+- Data_Dictionary.csv : [Download here](https://github.com/user-attachments/files/22428649/Data_Dictionary.csv)
+
+
 ### Tools Used
 
 - Power BI Desktop. 
