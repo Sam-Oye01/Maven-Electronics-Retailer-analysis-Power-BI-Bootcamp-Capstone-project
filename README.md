@@ -61,7 +61,7 @@ The primary source of the data used was shared by the facilitator to all student
 - Stores.csv : [Download here](https://github.com/user-attachments/files/22428627/Stores.csv)
 - Exchange_Rates.csv : [Download here](https://github.com/user-attachments/files/22428639/Exchange_Rates.csv)
 - Data_Dictionary.csv : [Download here](https://github.com/user-attachments/files/22428649/Data_Dictionary.csv)
-
+- Sales.csv : [Download here](https://github.com/user-attachments/files/22428715/Sales.csv)
 
 ### Tools Used
 
