@@ -22,38 +22,39 @@ The dataset consists of multiple related tables:
  - **Overall Performance (KPI Tracking)**
 
      - Total revenue, profit, quantity sold, and customer count.
-     - Are these KPIs growing or declining compared to targets?
+     - Assessment if these KPIs are growing or declining compared to targets.
  
  - **Trends Over Time (Monthly Analysis)**
   
      - How revenue, profit, quantity, and customer count have changed month by month since 2020.
-     - Are there seasonal patterns or months where performance consistently drops?
+     - Assessment if there are seasonal patterns or months where performance consistently drops.
+ 
+ - **Year-over-Year (YoY) Comparison**
+
+   - How performance in the current year compare to previous years.
+   - The YoY growth/decline % for revenue, profit, and customers.
+   - Assessment if management is recovering or still trending downward.
+
+- **Product Performance**
+
+   - Products, categories, and subcategories are driving revenue and profit growth.
+   - The ones that are underperforming and contributing to the decline.
+   - The top 10 best-sellers vs. the bottom 10 laggards.
+
+- **Customer Insights**
   
- 4. Year-over-Year (YoY) Comparison
- How does performance in the current year compare to previous years?
- What is the YoY growth/decline % for revenue, profit, and customers?
- Are we recovering or still trending downward?
-CASE STUDY: BUILDING A SALES DASHBOARD
- 5. Product Performance
- Which products, categories, and subcategories are driving revenue and profit
- growth?
- Which ones are underperforming and contributing to the decline?
- What are the top 10 best-sellers vs. the bottom 10 laggards?
- Are our profit margins shrinking due to rising costs or discounting?
- 6. Customer Insights
- Who are our customers? (gender, age, geography)
- Are we losing existing customers or failing to attract new ones?
- Which customer segments contribute the most to revenue and profit?
- Are younger or older demographics shifting their buying behavior?
-CASE STUDY: BUILDING A SALES DASHBOARD
- 7. Store & Regional Performance
- Which stores, states, and countries are performing well vs. declining?
- Are certain regions driving the overall revenue decline?
- How does store performance vary based on open date (new vs. old stores)
+   - The customers catalague (gender, age, geography).
+   - Assessment if management is losing existing customers or failing to attract new ones.
+   - Customer segments that contribute the most to revenue and profit.
+   - Assessment if there are younger or older demographics shifting their buying behavior.
+
+- **Store & Regional Performance**
+
+   - Stores, states, and countries that are performing well vs. declining.certain regions driving the overall revenue decline.
+   - How store performance vary based on open date (new vs. old stores).
 
 ### Data Source
 The primary source of the data used was shared by the facilitator to all students for the project assessment. The datasets can be found on the PowerBi link to access the dashboard. 
-
 
 ### Tools Used
 
